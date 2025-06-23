@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "What is the capital of France?"}, {"role": "assistant", "content": "Paris"}]}
+{"messages": [{"role": "user", "content": "Who wrote Hamlet?"}, {"role": "assistant", "content": "William Shakespeare"}]}
+{"messages": [{"role": "user", "content": "What is the boiling point of water?"}, {"role": "assistant", "content": "100 degrees Celsius"}]}
+{"messages": [{"role": "user", "content": "Who painted the Mona Lisa?"}, {"role": "assistant", "content": "Leonardo da Vinci"}]}
+{"messages": [{"role": "user", "content": "What is the tallest mountain?"}, {"role": "assistant", "content": "Mount Everest"}]}
+{"messages": [{"role": "user", "content": "What language is spoken in Brazil?"}, {"role": "assistant", "content": "Portuguese"}]}
+{"messages": [{"role": "user", "content": "What is the smallest planet?"}, {"role": "assistant", "content": "Mercury"}]}
+{"messages": [{"role": "user", "content": "Who discovered gravity?"}, {"role": "assistant", "content": "Isaac Newton"}]}
+{"messages": [{"role": "user", "content": "What is the freezing point of water?"}, {"role": "assistant", "content": "0 degrees Celsius"}]}
+{"messages": [{"role": "user", "content": "What is the currency of Japan?"}, {"role": "assistant", "content": "Yen"}]}
