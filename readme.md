@@ -1,4 +1,4 @@
-# Azure OpenAI Fine-Tuning Example
+# Fine-Tuning Examples
 
 This project demonstrates how to fine-tune an Azure OpenAI model using the OpenAI Python SDK.
 
